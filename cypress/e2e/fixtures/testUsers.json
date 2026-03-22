@@ -1,0 +1,10 @@
+{
+  "01.01": {
+    "username": "your_registered_username",
+    "password": "your_password"
+  },
+  "01.02": {
+    "username": "wronguser",
+    "password": "wrongpass"
+  }
+}
